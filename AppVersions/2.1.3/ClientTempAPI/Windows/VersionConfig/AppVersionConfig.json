@@ -1,0 +1,38 @@
+{
+  "AppConfigDataVersion": "2.1.3",
+  "LastUpdatedId": "hfzoyj4phroc5pqqg7ae5r4izbru0eya",
+  "LastAppVersionAvailable": "2.1.3",
+  "LastCheckApiDateUpdated": "2022-12-06T02:56:25.2343409+03:00",
+  "APIWebBrowserTabConfigs": [
+    {
+      "Key": "WelcomeLanding_WebBrowserTabConfig",
+      "Url": "https://www.awthani.com/",
+      "IsVisible_HeaderBar": true,
+      "Enable_UrlBox": false,
+      "IsVisibleBtn_Printer": false,
+      "IsVisibleBtn_CopyUrl": true,
+      "IsVisible_StatusBar_All": true,
+      "IsVisible_StatusBar_Title": false,
+      "IsVisible_StatusBar_VersionInfo": true,
+      "Enable_CreateTab": true,
+      "Enable_TitleChanged": false,
+      "IsPinned": true,
+      "TabIcon": "GoogleChrome"
+    },
+    {
+      "Key": "AddNewTab_WebBrowserTabConfig",
+      "Url": "https://www.google.com/",
+      "IsVisible_HeaderBar": true,
+      "Enable_UrlBox": true,
+      "IsVisibleBtn_Printer": true,
+      "IsVisibleBtn_CopyUrl": false,
+      "IsVisible_StatusBar_All": true,
+      "IsVisible_StatusBar_Title": true,
+      "IsVisible_StatusBar_VersionInfo": false,
+      "Enable_CreateTab": true,
+      "Enable_TitleChanged": false,
+      "IsPinned": false,
+      "TabIcon": "GoogleChrome"
+    }
+  ]
+}
