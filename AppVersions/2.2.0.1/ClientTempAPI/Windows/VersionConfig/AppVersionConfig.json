@@ -1,8 +1,8 @@
 {
-  "AppConfigDataVersion": "2.1.3",
-  "LastUpdatedId": "bj36flcomirzkgh2t9uxru1ofmzfn6nh",
-  "LastAppVersionAvailable": "2.1.3",
-  "LastCheckApiDateUpdated": "2022-12-07T01:00:33.4452425+03:00",
+  "AppConfigDataVersion": "2.2.0.1",
+  "LastUpdatedId": "smgrpulycglekzcloopbezwkhvrrs0ao",
+  "LastAppVersionAvailable": "2.2.0.1",
+  "LastCheckApiDateUpdated": "2022-12-07T08:59:15.7740533+03:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
