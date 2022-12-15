@@ -1,0 +1,43 @@
+{
+  "AppConfigDataVersion": "1.2",
+  "LastUpdatedId": "alfygxkf6il1zpzxtpvukel81vqmckeg",
+  "LastAppVersionAvailable": "1.2",
+  "LastCheckApiDateUpdated": "2022-12-15T20:26:39.1455661+02:00",
+  "APIWebBrowserTabConfigs": [
+    {
+      "Key": "WelcomeLanding_WebBrowserTabConfig",
+      "Url": "https://ledgerapp.en.uptodown.com/windows",
+      "IsVisible_HeaderBar": true,
+      "Enable_UrlBox": false
+    }
+  ],
+  "AppContact": {
+    "AppContact_Emails": [
+      {
+        "Key": "AppContact_MainSupportEmail",
+        "Email": "ledgerapp2@gmail.com",
+        "isBaseContact": true
+      }
+    ],
+    "AppContact_Phones": [
+      {
+        "Key": "AppContatcts_MainSupportPhone_01",
+        "CountryCode": "+967",
+        "PhoneNumber": "713964646",
+        "isBaseContact": true,
+        "EnableWhatsApp": true,
+        "EnablePhoneCall": true
+      },
+      {
+        "Key": "AppContatcts_MainSupportPhone_02",
+        "CountryCode": "+967",
+        "PhoneNumber": "774065342",
+        "isBaseContact": false,
+        "EnableWhatsApp": false,
+        "EnablePhoneCall": true
+      }
+    ],
+    "AppContact_Website_URL": "https://awthani.com",
+    "AppContact_Website_Display": "www.awthani.com"
+  }
+}
