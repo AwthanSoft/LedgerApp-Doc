@@ -1,12 +1,12 @@
 {
   "AppConfigDataVersion": "2.2.0.1",
-  "LastUpdatedId": "7foeh8hrs9d3xh9srd1rmzrro3rojhod",
+  "LastUpdatedId": "kfcjm0fp4gqzdozol0arwi2d07wyotlu",
   "LastAppVersionAvailable": "2.2.1.0",
-  "LastCheckApiDateUpdated": "2023-02-05T01:13:35.7981033+02:00",
+  "LastCheckApiDateUpdated": "2023-02-05T06:16:04.0445356+02:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://ledgerapp.en.uptodown.com/windows",
+      "Url": "https://www.facebook.com/ledgerappme",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
@@ -37,7 +37,7 @@
   ],
   "AppContact": {
     "AppContact_Email": "ledgerapp2@gmail.com",
-    "AppContact_Phone": "+20 1557515571",
+    "AppContact_Phone": "+201557515571",
     "AppContact_Website_URL": "https://www.awthani.com",
     "AppContact_Website_Display": "awthani.com"
   }
