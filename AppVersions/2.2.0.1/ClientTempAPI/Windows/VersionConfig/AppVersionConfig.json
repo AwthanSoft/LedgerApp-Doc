@@ -1,12 +1,12 @@
 {
   "AppConfigDataVersion": "2.2.0.1",
-  "LastUpdatedId": "lqdpuf2hnyrtlqc36qjxkpx3ma3srmys",
+  "LastUpdatedId": "s1zuobipdhlfwvjeuye2zgnsgiegszto",
   "LastAppVersionAvailable": "2.2.2.0",
-  "LastCheckApiDateUpdated": "2023-03-24T14:05:29.8662983+02:00",
+  "LastCheckApiDateUpdated": "2023-03-24T15:31:16.7722765+02:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://ledgerapp.en.uptodown.com/windows",
+      "Url": "https://www.facebook.com/ledgerappme",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
