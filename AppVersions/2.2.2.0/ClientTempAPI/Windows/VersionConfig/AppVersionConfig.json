@@ -1,38 +1,38 @@
 {
-  "AppConfigDataVersion": "2.2.1.0",
-  "LastUpdatedId": "12htpvbdesotkigu4lon6p0fsjc3mkqk",
+  "AppConfigDataVersion": "2.2.2.0",
+  "LastUpdatedId": "k92tjsnkpgtbbosnuiyp8lwmblafsh14",
   "LastAppVersionAvailable": "2.2.2.0",
   "LastCheckApiDateUpdated": "2023-03-24T14:05:29.8662983+02:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://ledgerapp.en.uptodown.com/windows",
-      "IsVisible_HeaderBar": true,
-      "Enable_UrlBox": false,
-      "IsVisibleBtn_Printer": false,
-      "IsVisibleBtn_CopyUrl": true,
-      "IsVisible_StatusBar_All": true,
-      "IsVisible_StatusBar_Title": false,
-      "IsVisible_StatusBar_VersionInfo": true,
-      "Enable_CreateTab": true,
-      "Enable_TitleChanged": false,
-      "IsPinned": true,
-      "TabIcon": "Update"
-    },
-    {
-      "Key": "AddNewTab_WebBrowserTabConfig",
       "Url": "https://www.facebook.com/ledgerappme",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
       "IsVisibleBtn_CopyUrl": true,
-      "IsVisible_StatusBar_All": true,
+      "IsVisible_StatusBar_All": false,
       "IsVisible_StatusBar_Title": false,
       "IsVisible_StatusBar_VersionInfo": true,
       "Enable_CreateTab": true,
       "Enable_TitleChanged": false,
+      "IsPinned": true,
+      "TabIcon": "GoogleChrome"
+    },
+    {
+      "Key": "AddNewTab_WebBrowserTabConfig",
+      "Url": "https://www.google.com/",
+      "IsVisible_HeaderBar": true,
+      "Enable_UrlBox": true,
+      "IsVisibleBtn_Printer": true,
+      "IsVisibleBtn_CopyUrl": false,
+      "IsVisible_StatusBar_All": true,
+      "IsVisible_StatusBar_Title": true,
+      "IsVisible_StatusBar_VersionInfo": false,
+      "Enable_CreateTab": true,
+      "Enable_TitleChanged": true,
       "IsPinned": false,
-      "TabIcon": "Update"
+      "TabIcon": "GoogleChrome"
     }
   ],
   "AppContact": {
