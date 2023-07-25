@@ -1,6 +1,6 @@
 {
-  "AppConfigDataVersion": "2.2.0.1",
-  "LastUpdatedId": "fynetbrusqcrzurdqsxrlrr4iuvghfsf",
+  "AppConfigDataVersion": "2.2.3.0",
+  "LastUpdatedId": "x731qpah4ujubis0lsiddzy6tw6fkuzw",
   "LastAppVersionAvailable": "2.2.3.0",
   "LastCheckApiDateUpdated": "2023-07-25T06:50:36.6506681+08:00",
   "APIWebBrowserTabConfigs": [
@@ -11,28 +11,28 @@
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
       "IsVisibleBtn_CopyUrl": true,
-      "IsVisible_StatusBar_All": true,
+      "IsVisible_StatusBar_All": false,
       "IsVisible_StatusBar_Title": false,
       "IsVisible_StatusBar_VersionInfo": true,
       "Enable_CreateTab": true,
       "Enable_TitleChanged": false,
       "IsPinned": true,
-      "TabIcon": "Update"
+      "TabIcon": "GoogleChrome"
     },
     {
       "Key": "AddNewTab_WebBrowserTabConfig",
-      "Url": "https://www.facebook.com/ledgerappme",
+      "Url": "https://www.google.com/",
       "IsVisible_HeaderBar": true,
-      "Enable_UrlBox": false,
-      "IsVisibleBtn_Printer": false,
-      "IsVisibleBtn_CopyUrl": true,
+      "Enable_UrlBox": true,
+      "IsVisibleBtn_Printer": true,
+      "IsVisibleBtn_CopyUrl": false,
       "IsVisible_StatusBar_All": true,
-      "IsVisible_StatusBar_Title": false,
-      "IsVisible_StatusBar_VersionInfo": true,
+      "IsVisible_StatusBar_Title": true,
+      "IsVisible_StatusBar_VersionInfo": false,
       "Enable_CreateTab": true,
-      "Enable_TitleChanged": false,
+      "Enable_TitleChanged": true,
       "IsPinned": false,
-      "TabIcon": "Update"
+      "TabIcon": "GoogleChrome"
     }
   ],
   "AppContact": {
