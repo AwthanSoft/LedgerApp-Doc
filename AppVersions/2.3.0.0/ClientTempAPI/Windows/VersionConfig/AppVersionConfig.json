@@ -1,12 +1,12 @@
 {
   "AppConfigDataVersion": "2.3.0.0",
-  "LastUpdatedId": "azpsfx0jc1x5nkfsxxdfpovrzoo7y4fc",
+  "LastUpdatedId": "xthkdqql3ac5gcuc8ydehfewi8imtotj",
   "LastAppVersionAvailable": "2.3.0.0",
-  "LastCheckApiDateUpdated": "2024-03-20T17:38:05.951777+08:00",
+  "LastCheckApiDateUpdated": "2024-04-19T20:26:50.4818868+08:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://www.facebook.com/ledgerappme",
+      "Url": "https://play.google.com/store/apps/details?id=com.mawasoft.ledgerappbeta",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,

@@ -1,12 +1,12 @@
 {
-  "AppConfigDataVersion": "1.2",
-  "LastUpdatedId": "vgqavp3garwwditmoiuimbwspumfhdso",
+  "AppConfigDataVersion": "2.2",
+  "LastUpdatedId": "qsk9v4qtegdpsrtzo5hvuk7ttyubcyyg",
   "LastAppVersionAvailable": "2.2",
   "LastCheckApiDateUpdated": "2024-04-19T20:27:19.8979669+08:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://play.google.com/store/apps/details?id=com.mawasoft.ledgerappbeta",
+      "Url": "https://ledgerapp.uptodown.com/windows",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false
     },
