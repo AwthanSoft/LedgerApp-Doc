@@ -1,38 +1,38 @@
 {
   "AppConfigDataVersion": "2.3.0.0",
-  "LastUpdatedId": "xthkdqql3ac5gcuc8ydehfewi8imtotj",
-  "LastAppVersionAvailable": "2.3.0.0",
-  "LastCheckApiDateUpdated": "2024-04-19T20:26:50.4818868+08:00",
+  "LastUpdatedId": "lcrykgsqc6esykgvat32e5uhhb7evbga",
+  "LastAppVersionAvailable": "2.3.1.0",
+  "LastCheckApiDateUpdated": "2024-09-16T16:24:51.3244263+08:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://play.google.com/store/apps/details?id=com.mawasoft.ledgerappbeta",
+      "Url": "https://ledgerapp.en.uptodown.com/windows",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
       "IsVisibleBtn_CopyUrl": true,
-      "IsVisible_StatusBar_All": false,
+      "IsVisible_StatusBar_All": true,
       "IsVisible_StatusBar_Title": false,
       "IsVisible_StatusBar_VersionInfo": true,
       "Enable_CreateTab": true,
       "Enable_TitleChanged": false,
       "IsPinned": true,
-      "TabIcon": "GoogleChrome"
+      "TabIcon": "Update"
     },
     {
       "Key": "AddNewTab_WebBrowserTabConfig",
-      "Url": "https://www.google.com/",
+      "Url": "https://ledgerapp.en.uptodown.com/windows",
       "IsVisible_HeaderBar": true,
-      "Enable_UrlBox": true,
-      "IsVisibleBtn_Printer": true,
-      "IsVisibleBtn_CopyUrl": false,
+      "Enable_UrlBox": false,
+      "IsVisibleBtn_Printer": false,
+      "IsVisibleBtn_CopyUrl": true,
       "IsVisible_StatusBar_All": true,
-      "IsVisible_StatusBar_Title": true,
-      "IsVisible_StatusBar_VersionInfo": false,
+      "IsVisible_StatusBar_Title": false,
+      "IsVisible_StatusBar_VersionInfo": true,
       "Enable_CreateTab": true,
-      "Enable_TitleChanged": true,
+      "Enable_TitleChanged": false,
       "IsPinned": false,
-      "TabIcon": "GoogleChrome"
+      "TabIcon": "Update"
     }
   ],
   "AppContact": {
