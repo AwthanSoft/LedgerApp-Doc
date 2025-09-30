@@ -1,12 +1,12 @@
 {
   "AppConfigDataVersion": "2.2",
-  "LastUpdatedId": "qsk9v4qtegdpsrtzo5hvuk7ttyubcyyg",
+  "LastUpdatedId": "4qr9ddub1tziqbfh3apbck4c0ruutra1",
   "LastAppVersionAvailable": "2.2",
-  "LastCheckApiDateUpdated": "2024-04-19T20:27:19.8979669+08:00",
+  "LastCheckApiDateUpdated": "2025-09-30T16:12:37.1633521+03:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://ledgerapp.uptodown.com/windows",
+      "Url": "https://ledgermeclientportal-ewctdggwdycfesd9.eastus2-01.azurewebsites.net/2.2",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false
     },

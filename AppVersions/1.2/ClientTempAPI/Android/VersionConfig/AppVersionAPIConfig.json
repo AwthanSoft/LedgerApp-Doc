@@ -1,12 +1,12 @@
 {
   "AppConfigDataVersion": "1.2",
-  "LastUpdatedId": "vgqavp3garwwditmoiuimbwspumfhdso",
+  "LastUpdatedId": "sdj3am83uiauqifa3ooapzmrjgtqd2vf",
   "LastAppVersionAvailable": "2.2",
-  "LastCheckApiDateUpdated": "2024-04-19T20:27:19.8979669+08:00",
+  "LastCheckApiDateUpdated": "2025-09-30T16:12:37.1633521+03:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://play.google.com/store/apps/details?id=com.mawasoft.ledgerappbeta",
+      "Url": "https://ledgermeclientportal-ewctdggwdycfesd9.eastus2-01.azurewebsites.net/download/1.2",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false
     },

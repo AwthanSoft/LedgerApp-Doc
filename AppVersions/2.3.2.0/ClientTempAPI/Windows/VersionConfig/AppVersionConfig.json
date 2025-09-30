@@ -1,12 +1,12 @@
 {
   "AppConfigDataVersion": "2.3.2.0",
-  "LastUpdatedId": "6jnwi9xneqg15y46mogkfbsmkmwsafpz",
+  "LastUpdatedId": "lilrl2gmqxwveogqvxmeeyqx58rp1sqd",
   "LastAppVersionAvailable": "2.3.2.0",
-  "LastCheckApiDateUpdated": "2025-06-02T20:44:32.4310197+03:00",
+  "LastCheckApiDateUpdated": "2025-09-30T16:00:58.519296+03:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://play.google.com/store/apps/details?id=com.mawasoft.ledgerappbeta",
+      "Url": "https://ledgermeclientportal-ewctdggwdycfesd9.eastus2-01.azurewebsites.net/2.3.2.0",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
@@ -21,7 +21,7 @@
     },
     {
       "Key": "AddNewTab_WebBrowserTabConfig",
-      "Url": "https://www.google.com/",
+      "Url": "https://ledgermeclientportal-ewctdggwdycfesd9.eastus2-01.azurewebsites.net/2.3.2.0",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": true,
       "IsVisibleBtn_Printer": true,

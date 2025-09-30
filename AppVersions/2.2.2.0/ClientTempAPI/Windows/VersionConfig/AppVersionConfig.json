@@ -1,12 +1,12 @@
 {
   "AppConfigDataVersion": "2.2.2.0",
-  "LastUpdatedId": "offbphuoztcqkrgozxlblul5ky2lnwep",
+  "LastUpdatedId": "0d77b0nfar0g7sjrbymyuvxndrxlclhe",
   "LastAppVersionAvailable": "2.3.2.0",
-  "LastCheckApiDateUpdated": "2025-06-02T20:44:32.4310197+03:00",
+  "LastCheckApiDateUpdated": "2025-09-30T16:00:58.519296+03:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://ledgerapp.en.uptodown.com/windows",
+      "Url": "https://ledgermeclientportal-ewctdggwdycfesd9.eastus2-01.azurewebsites.net/download/2.2.2.0",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
@@ -20,8 +20,8 @@
       "TabIcon": "Update"
     },
     {
-      "Key": "AddNewTab_WebBrowserTabConfig",
-      "Url": "https://ledgerapp.en.uptodown.com/windows",
+      "Key": "WelcomeLanding_WebBrowserTabConfig",
+      "Url": "https://ledgermeclientportal-ewctdggwdycfesd9.eastus2-01.azurewebsites.net/2.2.2.0",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
