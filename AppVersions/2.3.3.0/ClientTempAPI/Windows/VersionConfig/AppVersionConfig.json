@@ -1,38 +1,38 @@
 {
-  "AppConfigDataVersion": "2.3.0.0",
-  "LastUpdatedId": "ftpnyxs5da3ievhp0uarz4lgoe0lwx9g",
+  "AppConfigDataVersion": "2.3.3.0",
+  "LastUpdatedId": "gr1taagewfg84hposveyrlapcmaldel8",
   "LastAppVersionAvailable": "2.3.3.0",
   "LastCheckApiDateUpdated": "2026-04-28T08:54:44.3917617+08:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://awthani.com/download/2.3.0.0",
+      "Url": "https://awthani.com/2.3.3.0",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
       "IsVisibleBtn_CopyUrl": true,
-      "IsVisible_StatusBar_All": true,
+      "IsVisible_StatusBar_All": false,
       "IsVisible_StatusBar_Title": false,
       "IsVisible_StatusBar_VersionInfo": true,
       "Enable_CreateTab": true,
       "Enable_TitleChanged": false,
       "IsPinned": true,
-      "TabIcon": "Update"
+      "TabIcon": "GoogleChrome"
     },
     {
-      "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://awthani.com/2.3.0.0",
+      "Key": "AddNewTab_WebBrowserTabConfig",
+      "Url": "https://awthani.com/2.3.3.0",
       "IsVisible_HeaderBar": true,
-      "Enable_UrlBox": false,
-      "IsVisibleBtn_Printer": false,
-      "IsVisibleBtn_CopyUrl": true,
+      "Enable_UrlBox": true,
+      "IsVisibleBtn_Printer": true,
+      "IsVisibleBtn_CopyUrl": false,
       "IsVisible_StatusBar_All": true,
-      "IsVisible_StatusBar_Title": false,
-      "IsVisible_StatusBar_VersionInfo": true,
+      "IsVisible_StatusBar_Title": true,
+      "IsVisible_StatusBar_VersionInfo": false,
       "Enable_CreateTab": true,
-      "Enable_TitleChanged": false,
+      "Enable_TitleChanged": true,
       "IsPinned": false,
-      "TabIcon": "Update"
+      "TabIcon": "GoogleChrome"
     }
   ],
   "AppContact": {

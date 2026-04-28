@@ -1,12 +1,12 @@
 {
   "AppConfigDataVersion": "2.2.3.0",
-  "LastUpdatedId": "x9ynmu0tjlocivtnkjqseqgffuekcbdy",
-  "LastAppVersionAvailable": "2.3.2.0",
-  "LastCheckApiDateUpdated": "2025-09-30T16:00:58.519296+03:00",
+  "LastUpdatedId": "hpoepjl93mfpzum1bsbbtaatndny9wv0",
+  "LastAppVersionAvailable": "2.3.3.0",
+  "LastCheckApiDateUpdated": "2026-04-28T08:54:44.3917617+08:00",
   "APIWebBrowserTabConfigs": [
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://ledgermeclientportal-ewctdggwdycfesd9.eastus2-01.azurewebsites.net/download/2.2.3.0",
+      "Url": "https://awthani.com/download/2.2.3.0",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
@@ -21,7 +21,7 @@
     },
     {
       "Key": "WelcomeLanding_WebBrowserTabConfig",
-      "Url": "https://ledgermeclientportal-ewctdggwdycfesd9.eastus2-01.azurewebsites.net/2.2.3.0",
+      "Url": "https://awthani.com/2.2.3.0",
       "IsVisible_HeaderBar": true,
       "Enable_UrlBox": false,
       "IsVisibleBtn_Printer": false,
@@ -37,7 +37,7 @@
   ],
   "AppContact": {
     "AppContact_Email": "ledgerapp2@gmail.com",
-    "AppContact_Phone": "+967 713964646",
+    "AppContact_Phone": "+967 711623993",
     "AppContact_Website_URL": "https://www.facebook.com/ledgerappme",
     "AppContact_Website_Display": "facebook.com/ledgerappme"
   }
